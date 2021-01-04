@@ -1,0 +1,4 @@
+com\redhat\LocationDetailService.class
+com\redhat\Application.class
+com\redhat\processor\ResultProcessor.class
+com\redhat\model\ContactInfo.class
